@@ -21,7 +21,7 @@ public class QueryServlet extends HttpServlet {
                 // Step 1: Allocate a database 'Connection' object
                 Connection conn = DriverManager.getConnection(
                         "jdbc:mysql://localhost:3306/ebookshop?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC",
-                        "root", "Vlademir0305");   // For MySQL
+                        "root", "password");   // For MySQL
                 // The format is: "jdbc:mysql://hostname:port/databaseName", "username", "password"
                 // Step 2: Allocate a 'Statement' object in the Connection
                 Statement stmt = conn.createStatement();
