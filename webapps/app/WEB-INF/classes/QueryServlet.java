@@ -15,6 +15,9 @@ public class QueryServlet extends HttpServlet {
         // Get a output writer to write the response message into the network socket
         PrintWriter out = response.getWriter();
         // Print an HTML page as the output of the query
+        out.println("<html>");
+        out.println("<head><title>Query Response</title></head>");
+        out.println("<body>");
 
         try (
                 // Step 1: Allocate a database 'Connection' object

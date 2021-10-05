@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa4516c0-52ee-4524-9332-ba95a9372d02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/catalina.2021-10-04.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina.2021-10-04.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/catalina.2021-10-05.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina.2021-10-05.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/catalina.out" beforeDir="false" afterPath="$PROJECT_DIR$/logs/catalina.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/localhost.2021-10-04.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/localhost.2021-10-04.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/localhost_access_log.2021-10-04.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/localhost_access_log.2021-10-04.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/QueryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/QueryServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/QueryServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/app/WEB-INF/classes/QueryServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/localhost.2021-10-05.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/localhost.2021-10-05.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webapps/app/querybook.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/app/querybook.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
