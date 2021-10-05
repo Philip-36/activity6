@@ -201,3 +201,8 @@
 04-Oct-2021 20:08:18.246 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/apache-tomcat-9.0.52/webapps/host-manager] has finished in [344] ms
 04-Oct-2021 20:08:18.254 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 04-Oct-2021 20:08:18.277 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3866] milliseconds
+04-Oct-2021 20:55:04.592 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Oct-2021 20:55:04.605 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 20:55:04.628 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2021 20:55:04.737 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 20:55:04.809 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
